@@ -1,2 +1,2 @@
 # primeiro repositorio
- primeiro repositorio por gui
+Primeiro repositório em GUI!
