@@ -1,6 +1,6 @@
 #10.Escreva um programa que pergunte o valor inicial de uma dívida e o juros mensal. Pergunte também o valor mensal 
 # que será pago. Imprima o número de meses para que a dívida seja paga, o total pago e o total de juros a pago.
-valordivida= int(input("Qual o valor inicial?\n"))
+valordivida= float(input("Qual o valor inicial?\n"))
 taxajuros = float(input("Qual o juros mensal?\n"))
 pagamentomensal= float(input("Quanto será pago por mês?\n"))
 parcela=0
